@@ -46,7 +46,7 @@ Please contribute this project by providing more valuable references of Health M
 
 [Surgeons cautiously embrace medical metaverse](https://venturebeat.com/2021/11/12/surgeons-cautiously-embrace-medical-metaverse/)
 
-[https://vitaminz.substack.com/p/how-the-metaverse-will-transform](https://vitaminz.substack.com/p/how-the-metaverse-will-transform)
+[How the metaverse will transform health](https://vitaminz.substack.com/p/how-the-metaverse-will-transform)
 
 ## Research Papers
 
