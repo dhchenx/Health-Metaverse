@@ -12,7 +12,7 @@ Here we present collections of related research papers and news relevant to the 
 
 Please contribute this project by providing more valuable references of Health Metaverse in the [Issues](https://github.com/dhchenx/health-metaverse/issues). 
 
-## News
+## Articles and Blogs
 
 [The Health Metaverse – A New Frontier?](https://coruzant.com/health-tech/the-health-metaverse-a-new-frontier/)
 
@@ -71,6 +71,12 @@ Please contribute this project by providing more valuable references of Health M
 
 [Who's building the metaverse?](https://www.reuters.com/technology/whos-building-metaverse-2021-11-01/)
 
+[Microsoft Mesh: A New “Holoportation” & Mixed Reality Platform That May Disrupt Healthcare](https://www.forbes.com/sites/saibala/2021/03/07/microsoft-mesh-a-new-holoportation--mixed-reality-platform-that-may-disrupt-healthcare/?sh=468d8a233d98)
+
+[5 Ways Medical Virtual Reality Is Already Changing Healthcare](https://medicalfuturist.com/5-ways-medical-vr-is-changing-healthcare/)
+
+[Applications of Virtual Reality in Healthcare](https://www.vrdirect.com/blog/vr-in-healthcare/applications-of-virtual-reality-in-healthcare/)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
@@ -80,7 +86,6 @@ Please contribute this project by providing more valuable references of Health M
 [What is a metaverse?](https://www.sciencedirect.com/science/article/abs/pii/S0262407921014500)
 
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
-
 
 
 ## Videos
