@@ -1,16 +1,17 @@
 # Health Metaverse
 Since Metaverse starts to become a hot topic in recent years, it is necessary to investigate the potential applications of *Health Metaverse* in the future. 
 
-> The most recent pandemic has triggered an unprecedented acceleration and adoption of emerging technologies and has acutely highlighted the vulnerabilities we have in managing global population health, as well as the opportunities offered by deploying innovative solutions powered by these emerging technologies. The *Health Metaverse* could be one of the solutions addressing several global healthcare challenges. All aspects of the global healthcare ecosystem will need to undergo a profound digital transformation and disruption in processes, workflows, practices and delivery methods. <br/>From: [How the metaverse will transform health](https://vitaminz.substack.com/p/how-the-metaverse-will-transform)
+> The Covid-19 pandemic has triggered an unprecedented acceleration and adoption of emerging technologies and has acutely highlighted the vulnerabilities we have in managing global population health, as well as the opportunities offered by deploying innovative solutions powered by these emerging technologies. The *Health Metaverse* could be one of the solutions addressing several global healthcare challenges. All aspects of the global healthcare ecosystem will need to undergo a profound digital transformation and disruption in processes, workflows, practices and delivery methods. <br/>From: [How the metaverse will transform health](https://vitaminz.substack.com/p/how-the-metaverse-will-transform)
 
 This is a research project focusing on the development of metaverse in the medical and health field. 
 
-![Health Metaverse](images/health-metaverse-2.jpg)
-
 ##  Project Goal
-Here we present collections of related research papers and news relevant to the applications of health metaverse. 
+
+Here we present a collection of research papers and news about the applications of *Health Metaverse*. 
 
 Please contribute this project by providing more valuable references of Health Metaverse in the [Issues](https://github.com/dhchenx/health-metaverse/issues). 
+
+![Health Metaverse](images/health-metaverse-2.jpg)
 
 ## Articles and Blogs
 
@@ -86,6 +87,8 @@ Please contribute this project by providing more valuable references of Health M
 [What is a metaverse?](https://www.sciencedirect.com/science/article/abs/pii/S0262407921014500)
 
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
+
+[Healthcare in the metaverse?](https://digmedia.lucdh.nl/2021/11/30/healthcare-in-the-metaverse/)
 
 
 ## Videos
