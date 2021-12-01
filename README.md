@@ -48,6 +48,29 @@ Please contribute this project by providing more valuable references of Health M
 
 [How the metaverse will transform health](https://vitaminz.substack.com/p/how-the-metaverse-will-transform)
 
+[MedRoom bets on the metaverse to reshape distance learning in medical schools](https://labsnews.com/en/articles/business/medroom-metaverse-startup-edtech-distance-learning-medicine/)
+
+[The Next Frontier For Healthcare: Augmented Reality, Virtual Reality, And The Metaverse](https://www.forbes.com/sites/saibala/2021/11/29/the-next-frontier-for-healthcare-augmented-reality-virtual-reality-and-the-metaverse/?sh=7c395c928943)
+
+[Facebook’s Evolution Into ‘Meta’ Has Incredible Potential To Revolutionize Healthcare](https://www.forbes.com/sites/saibala/2021/10/30/facebooks-evolution-into-meta-has-incredible-potential-to-revolutionize-healthcare/?sh=83d8a4b5c5fe)
+
+[The Metaverse of Health](https://venturedesktop.substack.com/p/the-metaverse-of-health)
+
+[Healthcare in Metaverse](https://medium.com/illumination/health-care-in-metaverse-d16526e80ad9)
+
+[Taking Healthcare Into the Metaverse](https://www.linkedin.com/pulse/taking-healthcare-metaverse-patrice-bergman?trk=articles_directory)
+
+[Introducing the healthcare metaverse](https://www.medicalindependent.ie/introducing-the-healthcare-metaverse/)
+
+[Treatment Announces Global Medical Metaverse](https://www.globenewswire.com/news-release/2021/11/04/2327635/0/en/Treatment-Announces-Global-Medical-Metaverse.html)
+
+[Virtual Reality in Healthcare](https://visualise.com/virtual-reality/virtual-reality-healthcare)
+
+
+[Crypto Docs NFTs from Ultimaxx Health's Symbiotic Marketplace: Bringing The Medical Field To The Blockchain Metaverse](https://www.newsfilecorp.com/release/104510/Crypto-Docs-NFTs-from-Ultimaxx-Healths-Symbiotic-Marketplace-Bringing-The-Medical-Field-To-The-Blockchain-Metaverse)
+
+[Who's building the metaverse?](https://www.reuters.com/technology/whos-building-metaverse-2021-11-01/)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
@@ -57,6 +80,8 @@ Please contribute this project by providing more valuable references of Health M
 [What is a metaverse?](https://www.sciencedirect.com/science/article/abs/pii/S0262407921014500)
 
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
+
+
 
 ## Videos
 
@@ -73,6 +98,8 @@ Please contribute this project by providing more valuable references of Health M
 [Mark Zuckerberg's Meta](https://about.facebook.com/meta/)
 
 [Microsoft](https://news.microsoft.com/innovation-stories/mesh-for-microsoft-teams/)
+
+[Some Companies building Metaverse](https://www.plainconcepts.com/metaverse-companies/#Ali_Metaverse_of_Alibaba)
 
 
 
