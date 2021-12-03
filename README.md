@@ -13,6 +13,8 @@ Please contribute this project by providing more valuable references of Health M
 
 ![Health Metaverse](images/health-metaverse-2.jpg)
 
+![Virtual Reality in Healthcare](images/metaverse-virtual-reality.png)
+
 ## Articles and Blogs
 
 [The Health Metaverse – A New Frontier?](https://coruzant.com/health-tech/the-health-metaverse-a-new-frontier/)
@@ -77,6 +79,8 @@ Please contribute this project by providing more valuable references of Health M
 [5 Ways Medical Virtual Reality Is Already Changing Healthcare](https://medicalfuturist.com/5-ways-medical-vr-is-changing-healthcare/)
 
 [Applications of Virtual Reality in Healthcare](https://www.vrdirect.com/blog/vr-in-healthcare/applications-of-virtual-reality-in-healthcare/)
+
+[Bump Galaxy: Mental Healthcare Metaverse](https://movinginstasis.com/project/bump_galaxy_mental_healthcare_metaverse)
 
 ## Research Papers
 
