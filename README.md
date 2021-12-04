@@ -82,6 +82,8 @@ Please contribute this project by providing more valuable references of Health M
 
 [Bump Galaxy: Mental Healthcare Metaverse](https://movinginstasis.com/project/bump_galaxy_mental_healthcare_metaverse)
 
+[Metaverse in operating room is changing medicine rapidly](https://www.koreabiomed.com/news/articleView.html?idxno=11477)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
