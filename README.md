@@ -1,5 +1,5 @@
-# Health Metaverse
-Since Metaverse starts to become a hot topic in recent years, it is necessary to investigate the potential applications of *Health Metaverse* in the future. 
+# The Health Metaverse
+Since Metaverse starts to become a hot topic in recent years, it is necessary to investigate the potential applications of *Health Metaverse* or *Medical Metaverse* in the future. 
 
 > The Covid-19 pandemic has triggered an unprecedented acceleration and adoption of emerging technologies and has acutely highlighted the vulnerabilities we have in managing global population health, as well as the opportunities offered by deploying innovative solutions powered by these emerging technologies. The *Health Metaverse* could be one of the solutions addressing several global healthcare challenges. All aspects of the global healthcare ecosystem will need to undergo a profound digital transformation and disruption in processes, workflows, practices and delivery methods. <br/>From: [How the metaverse will transform health](https://vitaminz.substack.com/p/how-the-metaverse-will-transform)
 
@@ -96,6 +96,9 @@ Please contribute this project by providing more valuable references of Health M
 
 [Healthcare in the metaverse?](https://digmedia.lucdh.nl/2021/11/30/healthcare-in-the-metaverse/)
 
+[The first metaverse experiments? Look to what’s already happening in medicine](https://www.cnbc.com/2021/12/04/the-first-metaverse-experiments-look-to-whats-happening-in-medicine.html)
+
+[The Medical Metaverse](https://www.christophejauquet.com/post/the-medical-metaverse)
 
 ## Videos
 
