@@ -100,6 +100,8 @@ Please contribute this project by providing more valuable references of Health M
 
 [The Medical Metaverse](https://www.christophejauquet.com/post/the-medical-metaverse)
 
+[How metaverse could play a role in reshaping healthcare](https://www.cnbctv18.com/business/this-japanese-fashion-mogul-spacefarer-will-give-away-cash-from-outer-space-11744362.htm)
+
 ## Videos
 
 [The Metaverse and How We'll Build It Together -- Connect 2021](https://www.youtube.com/watch?v=Uvufun6xer8)
