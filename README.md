@@ -84,6 +84,18 @@ Please contribute this project by providing more valuable references of Health M
 
 [Metaverse in operating room is changing medicine rapidly](https://www.koreabiomed.com/news/articleView.html?idxno=11477)
 
+[Healthcare in the metaverse?](https://digmedia.lucdh.nl/2021/11/30/healthcare-in-the-metaverse/)
+
+[The first metaverse experiments? Look to what’s already happening in medicine](https://www.cnbc.com/2021/12/04/the-first-metaverse-experiments-look-to-whats-happening-in-medicine.html)
+
+[The Medical Metaverse](https://www.christophejauquet.com/post/the-medical-metaverse)
+
+[How metaverse could play a role in reshaping healthcare](https://www.cnbctv18.com/business/this-japanese-fashion-mogul-spacefarer-will-give-away-cash-from-outer-space-11744362.htm)
+
+[Creating “metahealth” in the metaverse](https://www.auroracomms.com/digital/creating-metahealth-in-the-metaverse)
+
+['Health City' - Aimedis Publishes Health-Metaverse and Will Soon Open the First Clinic In It](https://www.standard-freeholder.com/newsfile/107310-health-city-aimedis-publishes-healthmetaverse-and-will-soon-open-the-first-clinic-in-it)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
@@ -93,14 +105,6 @@ Please contribute this project by providing more valuable references of Health M
 [What is a metaverse?](https://www.sciencedirect.com/science/article/abs/pii/S0262407921014500)
 
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
-
-[Healthcare in the metaverse?](https://digmedia.lucdh.nl/2021/11/30/healthcare-in-the-metaverse/)
-
-[The first metaverse experiments? Look to what’s already happening in medicine](https://www.cnbc.com/2021/12/04/the-first-metaverse-experiments-look-to-whats-happening-in-medicine.html)
-
-[The Medical Metaverse](https://www.christophejauquet.com/post/the-medical-metaverse)
-
-[How metaverse could play a role in reshaping healthcare](https://www.cnbctv18.com/business/this-japanese-fashion-mogul-spacefarer-will-give-away-cash-from-outer-space-11744362.htm)
 
 ## Videos
 
