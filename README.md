@@ -7,7 +7,7 @@ This is a research project focusing on the development of metaverse in the medic
 
 ##  Project Goal
 
-Here we present a collection of research papers and news about the applications of *Health Metaverse*. 
+Here we present a collection of news and papers related to *Health Metaverse*. 
 
 Please contribute this project by providing more valuable references of Health Metaverse in the [Issues](https://github.com/dhchenx/health-metaverse/issues). 
 
@@ -69,7 +69,6 @@ Please contribute this project by providing more valuable references of Health M
 
 [Virtual Reality in Healthcare](https://visualise.com/virtual-reality/virtual-reality-healthcare)
 
-
 [Crypto Docs NFTs from Ultimaxx Health's Symbiotic Marketplace: Bringing The Medical Field To The Blockchain Metaverse](https://www.newsfilecorp.com/release/104510/Crypto-Docs-NFTs-from-Ultimaxx-Healths-Symbiotic-Marketplace-Bringing-The-Medical-Field-To-The-Blockchain-Metaverse)
 
 [Who's building the metaverse?](https://www.reuters.com/technology/whos-building-metaverse-2021-11-01/)
@@ -95,6 +94,18 @@ Please contribute this project by providing more valuable references of Health M
 [Creating “metahealth” in the metaverse](https://www.auroracomms.com/digital/creating-metahealth-in-the-metaverse)
 
 ['Health City' - Aimedis Publishes Health-Metaverse and Will Soon Open the First Clinic In It](https://www.standard-freeholder.com/newsfile/107310-health-city-aimedis-publishes-healthmetaverse-and-will-soon-open-the-first-clinic-in-it)
+
+[Extended Reality In Healthcare: 3 Reasons The Industry Must Get Ready For AR And VR](https://bernardmarr.com/extended-reality-in-healthcare-3-reasons-the-industry-must-get-ready-for-ar-and-vr/)
+
+[TOP NEWSMetaverse And How It Is Helping The Medical Field?](https://powdersvillepost.com/metaverse-how-helping-medical-field/)
+
+[How Metaverse could play a role in overhauling healthcare](https://goodwordnews.com/how-metaverse-could-play-a-role-in-overhauling-healthcare/)
+
+[What is the Metaverse?: A surgeon simple perspective](https://www.corycalendinemd.com/post/what-is-metaverse-a-surgeons-simple-perspective)
+
+[Meta opens up access to its VR social platform Horizon Worlds](https://www.theverge.com/2021/12/9/22825139/meta-horizon-worlds-access-open-metaverse)
+
+[A Look at the First Medical Metaverse](https://www.dailyadvent.com/news/3d43e585ebe5689e468821619fe2706e-A-Look-at-the-First-Medical-Metaverse-By-DailyCoin)
 
 ## Research Papers
 
