@@ -107,6 +107,10 @@ Please contribute this project by providing more valuable references of Health M
 
 [A Look at the First Medical Metaverse](https://www.dailyadvent.com/news/3d43e585ebe5689e468821619fe2706e-A-Look-at-the-First-Medical-Metaverse-By-DailyCoin)
 
+[How the Metaverse can solve ambulatory health care’s biggest problem](https://www.oodpt.com/single-post/how-the-metaverse-can-solve-ambulatory-health-care-s-biggest-problem)
+
+[The Role of Metaverse in Revolutionizing Medical Education](https://ourplnt.com/metaverse-medical-education/)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
