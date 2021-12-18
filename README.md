@@ -11,9 +11,11 @@ Here we present a collection of news and papers related to *Health Metaverse*.
 
 Please contribute this project by providing more valuable references of Health Metaverse in the [Issues](https://github.com/dhchenx/health-metaverse/issues). 
 
-![Health Metaverse](images/health-metaverse-2.jpg)
+<img src="images/health-metaverse-2.jpg" alt="Health Metaverse" width="80%"/>
+<br/>
 
-![Virtual Reality in Healthcare](images/metaverse-analysis.png)
+<img src="images/metaverse-virtual-reality.png" alt="Health Metaverse" width="80%"/>
+
 
 ## Articles and Blogs
 
@@ -115,6 +117,16 @@ Please contribute this project by providing more valuable references of Health M
 
 [Metaverse is not a utopian healthcare field that has already benefited from it](https://coinyuppie.com/metaverse-is-not-a-utopian-healthcare-field-that-has-already-benefited-from-it/)
 
+[The Metaverse and Healthcare - Part 1](http://oxiohealth.io/the-metaverse-part-1/)
+
+[The Metaverse and Healthcare - Part 2](http://oxiohealth.io/the-metaverse-and-healthcare-part-2/)
+
+[The metaverse is already here. The debate now is over who should own it](https://health.wusf.usf.edu/2021-11-18/the-metaverse-is-already-here-the-debate-now-is-over-who-should-own-it)
+
+[How the Metaverse Could Be Good for Your Health](https://www.youmustgethealthy.com/2021/09/how-metaverse-good-for-your-health.html)
+
+[GOAL: With the “metaverse”, Facebook boosts the healthcare industry](https://oicanadian.com/goal-with-the-metaverse-facebook-boosts-the-healthcare-industry/)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
@@ -124,14 +136,6 @@ Please contribute this project by providing more valuable references of Health M
 [What is a metaverse?](https://www.sciencedirect.com/science/article/abs/pii/S0262407921014500)
 
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
-
-[The Metaverse and Healthcare - Part 1](http://oxiohealth.io/the-metaverse-part-1/)
-
-[The Metaverse and Healthcare - Part 2](http://oxiohealth.io/the-metaverse-and-healthcare-part-2/)
-
-[The metaverse is already here. The debate now is over who should own it](https://health.wusf.usf.edu/2021-11-18/the-metaverse-is-already-here-the-debate-now-is-over-who-should-own-it)
-
-[How the Metaverse Could Be Good for Your Health](https://www.youmustgethealthy.com/2021/09/how-metaverse-good-for-your-health.html)
 
 ## Videos
 
