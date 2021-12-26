@@ -127,6 +127,24 @@ Please contribute this project by providing more valuable references of Health M
 
 [GOAL: With the “metaverse”, Facebook boosts the healthcare industry](https://oicanadian.com/goal-with-the-metaverse-facebook-boosts-the-healthcare-industry/)
 
+[HEALTHCAREUK's DeHealth to Create a 3D Healthcare Metaverse](https://www.pymnts.com/healthcare/2021/uks-dehealth-to-create-a-3d-healthcare-metaverse/)
+
+[Metaverse Learning: Health & Social Care](https://metaverselearning.co.uk/health-and-social-care/)
+
+[Aimedis is building health metaverse with its own chain of clinics](https://gettotext.com/aimedis-is-building-health-metaverse-with-its-own-chain-of-clinics/)
+
+[How the metaverse will revolutionize health](https://playcrazygame.com/2021/12/24/how-the-metaverse-will-revolutionize-health-epoca-negocios/)
+
+[Limoverse – A Star To Rise In The Metaverse Horizon Built On Blockchain](https://www.outlookindia.com/website/story/outlook-spotlight-limoverse-a-star-to-rise-in-the-metaverse-horizon-built-on-blockchain/406450)
+
+[An AI Universe, a Metaverse, or both?](https://www.deccanherald.com/opinion/an-ai-universe-a-metaverse-or-both-1064752.html)
+
+[Misinformation already present in the metaverse](https://www.straitstimes.com/tech/tech-news/misinformation-already-present-in-the-metaverse)
+
+[Healthcare Metaverse Set to Take Off With the Launch of the Metaverse Doctors Alliance in South Korea](https://www.einnews.com/pr_news/558633223/healthcare-metaverse-set-to-take-off-with-the-launch-of-the-metaverse-doctors-alliance-in-south-korea)
+
+[How the metaverse can help students and teachers adapt to a post-pandemic world](https://www.scmp.com/comment/opinion/article/3160672/how-metaverse-can-help-students-and-teachers-adapt-post-pandemic)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
@@ -136,6 +154,9 @@ Please contribute this project by providing more valuable references of Health M
 [What is a metaverse?](https://www.sciencedirect.com/science/article/abs/pii/S0262407921014500)
 
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
+
+[Educational applications of metaverse: possibilities and limitations](https://www.jeehp.org/m/journal/view.php?number=424)
+
 
 ## Videos
 
