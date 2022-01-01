@@ -5,7 +5,7 @@ Since Metaverse starts to become a hot topic in recent years, it is necessary to
 
 This is a research project focusing on the development of metaverse in the medical and health field. 
 
-<font color=red>New project website</font> is [here](https://health-metaverse.github.io/). 
+<span style="color:red">New project website</span> is [here](https://health-metaverse.github.io/). 
 
 ##  Project Goal
 
