@@ -147,6 +147,22 @@ Please contribute this project by providing more valuable references of Health M
 
 [How the metaverse can help students and teachers adapt to a post-pandemic world](https://www.scmp.com/comment/opinion/article/3160672/how-metaverse-can-help-students-and-teachers-adapt-post-pandemic)
 
+[The world's first healthcare metaverse from DeHealth](https://www.prnewswire.com/news-releases/the-worlds-first-healthcare-metaverse-from-dehealth-301449862.html)
+
+[Metaverse in healthcare](http://www.fayzak.com/metaverse-in-healthcare/)
+
+[Metaverse Technologies and Its Applications](https://insights2techinfo.com/metaverse-technologies-and-their-applications/)
+
+[Trends 2022: The metaverse and healthcare innovations to feature more in our lives](https://www.iol.co.za/lifestyle/health/trends-2022-the-metaverse-and-healthcare-innovations-to-feature-more-in-our-lives-d99bc256-33ac-4daa-93fd-6c0f0e5dd605)
+
+[Benefits of Metaverse in Healthcare](https://tecarticles.com/benefits-of-metaverse-in-healthcare/)
+
+[HEALTH Metaverse and Health Care - A view from 50,000 feet – Health Care Blog](https://x99news.com/2021/09/14/metaverse-and-health-care-a-view-from-50000-feet-health-care-blog/)
+
+[From robots to the metaverse: How Intuitive Surgical is changing the face of medical surgery](https://www.businesstimes.com.sg/wealth-investing/from-robots-to-the-metaverse-how-intuitive-surgical-is-changing-the-face-of-medical)
+
+[A Look at the First Medical Metaverse](https://cricketbet99.com/a-look-at-the-first-medical-metaverse/)
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
