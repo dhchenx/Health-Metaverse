@@ -7,6 +7,10 @@ This is a research project focusing on the development of metaverse in the medic
 
 <span style="color:red">New project website</span> is [here](https://health-metaverse.github.io/). 
 
+## My Publications
+
+Donghua Chen and Runtong Zhang. Exploring Research Trends of Emerging Technologies in Health Metaverse: A Bibliometric Analysis (January 5, 2022). Available at SSRN: http://dx.doi.org/10.2139/ssrn.3998068. [[Link]](http://dx.doi.org/10.2139/ssrn.3998068)
+
 ##  Project Goal
 
 Here we present a collection of news and papers related to *Health Metaverse*. 
@@ -17,6 +21,7 @@ Please contribute this project by providing more valuable references of Health M
 <br/>
 
 <img src="images/metaverse-virtual-reality.png" alt="Health Metaverse" width="80%"/>
+
 
 
 ## Articles and Blogs
@@ -193,7 +198,6 @@ Please contribute this project by providing more valuable references of Health M
 [Microsoft](https://news.microsoft.com/innovation-stories/mesh-for-microsoft-teams/)
 
 [Some Companies building Metaverse](https://www.plainconcepts.com/metaverse-companies/#Ali_Metaverse_of_Alibaba)
-
 
 
 
