@@ -168,6 +168,30 @@ Please contribute this project by providing more valuable references of Health M
 
 [A Look at the First Medical Metaverse](https://cricketbet99.com/a-look-at-the-first-medical-metaverse/)
 
+
+[https://www.who.int/europe/news/item/05-01-2022-healthy-metaverse-how-can-we-promote-health-online](https://www.who.int/europe/news/item/05-01-2022-healthy-metaverse-how-can-we-promote-health-online)
+
+[Metaverse in Healthcare – New Era is Coming True](https://healthcarebusinessclub.com/articles/healthcare-provider/technology/metaverse-in-healthcare/)
+
+[Is METAVERSE A Madness as It Said? What Are Possible Application Areas in Health Services?](https://www.linkedin.com/pulse/metaverse-madness-said-what-possible-application-coskun-m-d-)
+
+[How Solve.Care and the Metaverse Doctors Alliance are ushering in a digital healthcare revolution](https://coinrivet.com/how-solve-care-and-the-metaverse-doctors-alliance-are-ushering-in-a-digital-healthcare-revolution/)
+
+[Quantum, Metaverse, NFTs and Healthcare blockchains coming in 2022](https://appdevelopermagazine.com/quantum,-metaverse,-nfts-and-healthcare-blockchains-coming-in-2022/)
+
+[Trends 2022: The metaverse and healthcare innovations to feature more in our lives](https://www.msn.com/en-za/news/other/trends-2022-the-metaverse-and-healthcare-innovations-to-feature-more-in-our-lives/ar-AASjFOL?li=BBqg6Q7)
+
+[https://www.thenftltd.com/2021/12/amazing-new-medical-metaverse-will-help.html](https://www.thenftltd.com/2021/12/amazing-new-medical-metaverse-will-help.html)
+
+[BRINGING HEALTHCARE INTO THE METAVERSE, XRHEALTH AND HTC WILL OFFER VIRTUAL TREATMENT ROOMS ON THE VIVE FOCUS 3 AND VIVE FLOW](https://southfloridahospitalnews.com/bringing-healthcare-into-the-metaverse-xrhealth-and-htc-will-offer-virtual-treatment-rooms-on-the-vive-focus-3-and-vive-flow/)
+
+[Metaverse could deliver medical, education benefits: opinion](https://app.curationcorp.com/story/87F2E74C-19CC-4F24-A28C-836BB7F53F71)
+
+[Microsoft redefines healthcare education with mixed reality](https://techwireasia.com/2022/01/microsoft-redefines-healthcare-education-with-mixed-reality/)
+
+[3D printing will languish in healthcare – until it explodes](https://www.medicaldevice-network.com/comment/3d-printing-healthcare/)
+
+
 ## Research Papers
 
 [A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges](https://arxiv.org/abs/2111.09673)
@@ -179,7 +203,6 @@ Please contribute this project by providing more valuable references of Health M
 [Building socioemotional environments in metaverses for virtual teams in healthcare: A conceptual exploration](https://link.springer.com/chapter/10.1007/978-3-642-29361-0_3)
 
 [Educational applications of metaverse: possibilities and limitations](https://www.jeehp.org/m/journal/view.php?number=424)
-
 
 ## Videos
 
